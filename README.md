@@ -4,9 +4,9 @@
 
 I  am Alban, Full-Stack developer based in Barcelona specialized in Javascript technologies for building web and mobile applications such as React, React Native, Redux, Express, and MongoDB.
 
-🌱 I'm currently diving into Three.js on the side, which is a pretty awesome and fun technology to learn.
+🌱 I'm currently diving into Three.js on the side, which is a pretty awesome and fun technology to learn. 🤓
 
-🎸 My other hobbies include playing guitar and kitesurfing the best spots !
+🎸 My other hobbies include playing guitar and kitesurfing the best spots ! 🤙
 
 👉 [My Linkedin Profile](https://www.linkedin.com/in/alban-mansord/)
 
