@@ -1,4 +1,6 @@
-### Hello there 👋
+### Hello 👋
+
+![pingouin](https://user-images.githubusercontent.com/76885772/138689651-752ef9e8-5334-4298-a3dd-e46566c69d80.gif)
 
 I  am Alban, Full-Stack developer based in Barcelona specialized in Javascript technologies for building web and mobile applications such as React, React Native, Redux, Express, and MongoDB.
 
@@ -7,8 +9,6 @@ I  am Alban, Full-Stack developer based in Barcelona specialized in Javascript t
 🎸 My other hobbies include playing guitar and kitesurfing the best spots !
 
 👉 [My Linkedin Profile](https://www.linkedin.com/in/alban-mansord/)
-
-
 
 <!--
 **alban44980/alban44980** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
