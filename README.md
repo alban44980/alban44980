@@ -26,7 +26,6 @@ I  am Alban, Full-Stack developer based in Barcelona specialized in Javascript t
 🎸 My other hobbies include playing guitar and kitesurfing the best spots ! 🤙
 
 
-
 <!--
 **alban44980/alban44980** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
